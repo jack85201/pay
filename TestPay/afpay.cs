@@ -6,7 +6,7 @@ namespace Common.Payment
 {
     /// <summary>
     /// 安付支付1
-    /// 注意：请求的价格(单位：元)
+    /// 注意：请求的价格(单位：元)1
     /// </summary>
     public class afpay : PaymentBase, IPayment
     {
